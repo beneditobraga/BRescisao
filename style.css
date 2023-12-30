@@ -1,8 +1,8 @@
 body {
-    background-color: rgb(219, 215, 215);
+    background-color: rgb(214, 230, 210);
 }
 
-h1 {
+#Título {
     background-color:rgb(6, 6, 68);
     color:rgb(252, 252, 252);
     font-size: 35px;
@@ -15,10 +15,10 @@ h1 {
     border-radius: 45px;
 }
 
-h2 {
+#SubTítulo {
     text-align: right;
-    margin-right: 16.6%;
-    color:rgb(163, 163, 163);
+    margin-right: 19.2%;
+    color:rgb(255, 255, 255);
     margin-top: -52px;
     font-size: 12px;
 }
